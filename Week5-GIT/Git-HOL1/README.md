@@ -7,7 +7,7 @@ git --version
 
 ### Step 2: Configure Git
 git config --global user.name "Abhishek Reddy"
-git config --global user.email "your-email@gmail.com"
+git config --global user.email "abhishekareddy2005@gmail.com"
 git config --list
 
 ### Step 3: Create Repository and Add File
